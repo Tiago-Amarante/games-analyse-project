@@ -1,6 +1,6 @@
 # Games-analysis-project
 
-The project was Files:
+The project was developed in t following order of Files:
 
 * API_request_hall_of_fame.ipynb - Get data from Open Critic API
 
