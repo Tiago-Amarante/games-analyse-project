@@ -1,8 +1,25 @@
-## games-analysis-project
+# Games-analysis-project
 
-# Motivation
+Files:
 
-Explore the Twitch API and Open Critic API to learn about APIs and Data p
+* API_request_hall_of_fame.ipynb - Get data from Open Critic API
 
-This project explore the influence of game reviews in their popularity. 
+* API_request_list_of_games.ipynb - Get data from Twitch based on Open Critic top games
+
+* Games_analysis_project.ipynb - The main notebook
+
+* hall_of_fame.csv - Open Critique
+
+* list_of_games.csv
+
+
+## Motivation
+
+Explore the Twitch API and Open Critic API to learn more about APIs and data preparation
+
+This project explore the influence of game reviews (Open Critic Score) in their popularity (Twitch data). 
+
+
+
+
 
