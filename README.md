@@ -1,6 +1,6 @@
 # Games-analysis-project
 
-The project was developed in t following order of Files:
+The project was developed in the following order of Files:
 
 * API_request_hall_of_fame.ipynb - Get data from Open Critic API
 
@@ -36,6 +36,6 @@ In Twitch's top games, there is a strong common trait: They're all COMPETITIVE g
 
 On the other hand, the top Open Critic Games have another two comum patterns: they're from classic franchises (Super Mario, Zelda, God of War) or they are something disruptive (Hades, Red Dead Redemption 2). My Hypothesis is that these franchises have a time-proven 'cake recipe', they're testing what's worth and what's not over the years. They know the reviewer's taste, and they have resources to run MVPs before the launch. And no less importantly they have an emotional impact, this is a subjective and non-technical criteria, but we have great expectation of the classics and I believe this fact impact the Score.
 
-Finally, I could demonstrate driven by data and limited by our initial assumptions, that reviews have little impact on game popularity. And I've created some Hypotheses to explain why this happens, but this hypothesis still needs to be proven.
+Finally, I could demonstrate through data and limited by our initial assumptions, that reviews have low impact on game popularity. And I've created some Hypotheses to explain why this happens, but this hypothesis still needs to be proven.
 
 Any suggestions, mail me at: tadbc1@gmail.com
